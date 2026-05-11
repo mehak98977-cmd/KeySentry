@@ -4,6 +4,9 @@
 
 KeySentry is an interactive, cyberpunk-themed cybersecurity awareness platform designed to teach users about the silent threat of keyloggers. Through simulated real-world scenarios, users must choose the right defensive strategies to keep their keystrokes safe.
 
+<img width="658" height="370" alt="giphy (1)" src="https://github.com/user-attachments/assets/9aba494c-df78-4a16-a19a-aff64adabe5d" />
+
+
 ## How it works
 It's a 5-level game based on real threats like sketchy WiFi, USB baiting, and phishing.
 
