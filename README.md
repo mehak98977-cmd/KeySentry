@@ -25,4 +25,4 @@ keysentry/
  └─ keysentry.html   # Contains all HTML, CSS, and JS
 
 ## How to run it
-Just download the repo and open keysentry.html in your browser. That's it.
+Just download the repo and open Keysentry-main.html in your browser. That's it.
